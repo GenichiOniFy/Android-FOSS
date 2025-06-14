@@ -17,6 +17,7 @@
 
 ### Магазины приложений
 - [F-Droid](https://f-droid.org/packages/org.fdroid.fdroid) ([Source](https://gitlab.com/fdroid/fdroidclient))
+- [IzzyOnDroid](https://f-droid.org/packages/in.sunilpaulmathew.izzyondroid) ([Source](https://gitlab.com/sunilpaulmathew/izzyondroid))
 
 ### Социальные сети и мессенджеры
 - 💬 [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([Source](https://github.com/TwoEightNine/XVII))  
