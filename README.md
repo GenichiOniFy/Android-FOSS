@@ -19,6 +19,7 @@
 - [F-Droid](https://f-droid.org/packages/org.fdroid.fdroid) ([Source](https://gitlab.com/fdroid/fdroidclient))
 - [IzzyOnDroid](https://f-droid.org/packages/in.sunilpaulmathew.izzyondroid) ([Source](https://gitlab.com/sunilpaulmathew/izzyondroid))
 - [Neo Store](https://f-droid.org/packages/com.machiav3lli.fdroid) ([Source](https://github.com/NeoApplications/Neo-Store))
+- [OpenStore](https://apt.izzysoft.de/fdroid/index/apk/dev.mi6e4ka.openstore) ([Source](https://codeberg.org/mi6e4ka/openstore))
 
 
 ### Социальные сети и мессенджеры
