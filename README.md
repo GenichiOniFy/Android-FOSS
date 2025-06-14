@@ -28,7 +28,7 @@
 - 🐘 [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([Source](https://github.com/mastodon/mastodon-android))
 
 ### Музыка
-- [Metrolist](https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music) ([Source](https://github.com/mostafaalagamy/Metrolist))
+- [Metrolist](https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music) ([Source](https://github.com/mostafaalagamy/Metrolist)).  
   → клиент для YouTube music. Всё работает бесплатно, но нужно использовать либо vpn, либо byeDPI
 
 ### Умные устройства
