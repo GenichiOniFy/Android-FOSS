@@ -20,7 +20,7 @@
 - [IzzyOnDroid](https://f-droid.org/packages/in.sunilpaulmathew.izzyondroid) ([Source](https://gitlab.com/sunilpaulmathew/izzyondroid))
 - [Neo Store](https://f-droid.org/packages/com.machiav3lli.fdroid) ([Source](https://github.com/NeoApplications/Neo-Store))
 - [OpenStore](https://apt.izzysoft.de/fdroid/index/apk/dev.mi6e4ka.openstore) ([Source](https://codeberg.org/mi6e4ka/openstore)) - аналог RuStore
-
+- [Aurora store](https://f-droid.org/packages/com.aurora.store) ([Source](https://gitlab.com/AuroraOSS/AuroraStore)) - аналог PlayMarket
 
 ### Социальные сети и мессенджеры
 - 💬 [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([Source](https://github.com/TwoEightNine/XVII))  
