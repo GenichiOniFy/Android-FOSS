@@ -15,6 +15,9 @@
 - 📱 [LineageOS](https://lineageos.org) ([Source](https://github.com/LineageOS))  
   → Аналог стандартного Android (MIUI, EMUI, OneUI)
 
+### Магазины приложений
+- [F-Droid](https://f-droid.org/packages/org.fdroid.fdroid) ([Source](https://gitlab.com/fdroid/fdroidclient))
+
 ### Социальные сети и мессенджеры
 - 💬 [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([Source](https://github.com/TwoEightNine/XVII))  
   → Аналог официального клиента ВК messenger
