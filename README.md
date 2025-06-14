@@ -12,16 +12,21 @@
 ## Список альтернатив
 
 ### Операционная система
- - [LineageOS](https://lineageos.org) ([Source](https://github.com/LineageOS))
+- 📱 [LineageOS](https://lineageos.org) ([Source](https://github.com/LineageOS))  
+  → Аналог стандартного Android (MIUI, EMUI, OneUI)
 
 ### Социальные сети и мессенджеры
- - [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([Source](https://github.com/TwoEightNine/XVII)) - мессенджер ВК.
- - [Telegram FOSS](https://f-droid.org/app/org.telegram.messenger) ([Source](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) - телеграм.
- - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([Source](https://github.com/mastodon/mastodon-android)) - мастодон
+- 💬 [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([Source](https://github.com/TwoEightNine/XVII))  
+  → Аналог официального клиента ВКонтакте
+- ✈️ [Telegram FOSS](https://f-droid.org/app/org.telegram.messenger) ([Source](https://github.com/Telegram-FOSS-Team/Telegram-FOSS))  
+  → Официальный Telegram без проприетарных компонентов
+- 🐘 [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([Source](https://github.com/mastodon/mastodon-android))  
+  → Альтернатива Twitter/X
 
-### Умные устройства и носимые гаджеты
+### Умные устройства
 - ⌚ [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([Source](https://codeberg.org/Freeyourgadget/Gadgetbridge))  
-  → Поддерживает Amazfit, Mi Band, Pebble, PineTime и другие без облачной синхронизации
+  → Замена Mi Fit/Zepp (для Amazfit, Mi Band) и Garmin Connect
 - 🔄 [KDE Connect](https://f-droid.org/packages/org.kde.kdeconnect_tp) ([Source](https://invent.kde.org/network/kdeconnect-android))  
-  → Интеграция с ПК для обмена файлами, уведомлениями и управления
-- 🏠 [Home Assistant](https://f-droid.org/packages/io.homeassistant.companion.android) ([Source](https://github.com/home-assistant/android)) 
+  → Аналог Samsung Flow, Microsoft Phone Link
+- 🏠 [Home Assistant](https://f-droid.org/packages/io.homeassistant.companion.android) ([Source](https://github.com/home-assistant/android))  
+  → Альтернатива Google Home, Mi Home, Tuya Smart
