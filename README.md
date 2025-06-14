@@ -17,11 +17,10 @@
 
 ### Социальные сети и мессенджеры
 - 💬 [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([Source](https://github.com/TwoEightNine/XVII))  
-  → Аналог официального клиента ВКонтакте
+  → Аналог официального клиента ВК messenger
 - ✈️ [Telegram FOSS](https://f-droid.org/app/org.telegram.messenger) ([Source](https://github.com/Telegram-FOSS-Team/Telegram-FOSS))  
   → Официальный Telegram без проприетарных компонентов
-- 🐘 [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([Source](https://github.com/mastodon/mastodon-android))  
-  → Альтернатива Twitter/X
+- 🐘 [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([Source](https://github.com/mastodon/mastodon-android))
 
 ### Умные устройства
 - ⌚ [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([Source](https://codeberg.org/Freeyourgadget/Gadgetbridge))  
