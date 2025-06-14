@@ -27,6 +27,9 @@
   → Официальный Telegram без проприетарных компонентов
 - 🐘 [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([Source](https://github.com/mastodon/mastodon-android))
 
+### Музыка
+- [Metrolist](https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music) ([Source]())
+
 ### Умные устройства
 - ⌚ [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([Source](https://codeberg.org/Freeyourgadget/Gadgetbridge))  
   → Замена Mi Fit/Zepp (для Amazfit, Mi Band) и Garmin Connect
