@@ -11,4 +11,4 @@
 ## Список альтернатив
 
 ### Социальные сети и мессенджеры
- - [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([исходный код](https://github.com/TwoEightNine/XVII)) - мессенджер ВК.
+ - [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([GitHub](https://github.com/TwoEightNine/XVII)) - мессенджер ВК.
