@@ -28,10 +28,11 @@
 - 🐘 [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([Source](https://github.com/mastodon/mastodon-android))
 
 ### Музыка
-- [Metrolist](https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music) ([Source]())
+- [Metrolist](https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music) ([Source](https://github.com/mostafaalagamy/Metrolist))
+  → клиент для YouTube music. Всё работает бесплатно, но нужно использовать либо vpn, либо byeDPI
 
 ### Умные устройства
-- ⌚ [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([Source](https://codeberg.org/Freeyourgadget/Gadgetbridge))  
+- ⌚ [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([Source](https://codeberg.org/Freeyourgadget/Gadgetbridge))
   → Замена Mi Fit/Zepp (для Amazfit, Mi Band) и Garmin Connect
 - 🔄 [KDE Connect](https://f-droid.org/packages/org.kde.kdeconnect_tp) ([Source](https://invent.kde.org/network/kdeconnect-android))  
   → Аналог Samsung Flow, Microsoft Phone Link
