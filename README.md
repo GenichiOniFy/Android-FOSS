@@ -12,13 +12,13 @@
 ## Список альтернатив
 
 ### Операционная система
- - [LineageOS](https://lineageos.org) ([GitHub](https://github.com/LineageOS))
+ - [LineageOS](https://lineageos.org) ([Source](https://github.com/LineageOS))
 
 ### Социальные сети и мессенджеры
- - [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([GitHub](https://github.com/TwoEightNine/XVII)) - мессенджер ВК.
- - [Telegram FOSS](https://f-droid.org/app/org.telegram.messenger) ([GitHub](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) - телеграм.
- - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([GitHub](https://github.com/mastodon/mastodon-android)) - мастодон
+ - [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([Source](https://github.com/TwoEightNine/XVII)) - мессенджер ВК.
+ - [Telegram FOSS](https://f-droid.org/app/org.telegram.messenger) ([Source](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) - телеграм.
+ - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([Source](https://github.com/mastodon/mastodon-android)) - мастодон
 
 ### Умные устройства и носимые гаджеты
-  - [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([GitHub](https://github.com/Freeyourgadget/Gadgetbridge))  
+  - [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([Source](https://codeberg.org/Freeyourgadget/Gadgetbridge))  
   → Поддерживает Amazfit, Mi Band, Pebble, PineTime и другие без облачной синхронизации  
