@@ -12,3 +12,4 @@
 
 ### Социальные сети и мессенджеры
  - [XVII](https://f-droid.org/packages/com.twoeightnine.root.xvii) ([GitHub](https://github.com/TwoEightNine/XVII)) - мессенджер ВК.
+ - [Telegram FOSS]() ([GitHub] (https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) - телеграм.
