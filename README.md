@@ -20,5 +20,8 @@
  - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android) ([Source](https://github.com/mastodon/mastodon-android)) - мастодон
 
 ### Умные устройства и носимые гаджеты
-  - [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([Source](https://codeberg.org/Freeyourgadget/Gadgetbridge))  
-  → Поддерживает Amazfit, Mi Band, Pebble, PineTime и другие без облачной синхронизации  
+- ⌚ [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([Source](https://codeberg.org/Freeyourgadget/Gadgetbridge))  
+  → Поддерживает Amazfit, Mi Band, Pebble, PineTime и другие без облачной синхронизации
+- 🔄 [KDE Connect](https://f-droid.org/packages/org.kde.kdeconnect_tp) ([Source](https://invent.kde.org/network/kdeconnect-android))  
+  → Интеграция с ПК для обмена файлами, уведомлениями и управления
+- 🏠 [Home Assistant](https://f-droid.org/packages/io.homeassistant.companion.android) ([Source](https://github.com/home-assistant/android)) 
