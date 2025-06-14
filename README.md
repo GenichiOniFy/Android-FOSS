@@ -29,3 +29,7 @@
   → Аналог Samsung Flow, Microsoft Phone Link
 - 🏠 [Home Assistant](https://f-droid.org/packages/io.homeassistant.companion.android.minimal) ([Source](https://github.com/home-assistant/android))  
   → Альтернатива умному дому яндекса, mi home и тд
+
+### Облачные сервисы
+- ☁️ [Nextcloud](https://f-droid.org/packages/com.nextcloud.client) ([Source](https://github.com/nextcloud/android))  
+  → Аналог yandex диск, google disk, dropbox и тд
