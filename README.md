@@ -27,5 +27,5 @@
   → Замена Mi Fit/Zepp (для Amazfit, Mi Band) и Garmin Connect
 - 🔄 [KDE Connect](https://f-droid.org/packages/org.kde.kdeconnect_tp) ([Source](https://invent.kde.org/network/kdeconnect-android))  
   → Аналог Samsung Flow, Microsoft Phone Link
-- 🏠 [Home Assistant](https://f-droid.org/packages/io.homeassistant.companion.android) ([Source](https://github.com/home-assistant/android))  
+- 🏠 [Home Assistant](https://f-droid.org/packages/io.homeassistant.companion.android.minimal) ([Source](https://github.com/home-assistant/android))  
   → Альтернатива Google Home, Mi Home, Tuya Smart
