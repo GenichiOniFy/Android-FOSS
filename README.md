@@ -30,6 +30,8 @@
 ### Музыка
 - [Metrolist](https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music) ([Source](https://github.com/mostafaalagamy/Metrolist)).  
   → клиент для YouTube music. Всё работает бесплатно, но нужно использовать либо vpn, либо byeDPI
+- [Audile](https://f-droid.org/packages/com.mrsep.musicrecognizer) ([Source](https://github.com/aleksey-saenko/MusicRecognizer)). 
+  → распознаватель музыки. Аналог Shazam
 
 ### Умные устройства
 - ⌚ [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge) ([Source](https://codeberg.org/Freeyourgadget/Gadgetbridge))
