@@ -30,7 +30,7 @@
 ### Музыка
 - 🎵  [Metrolist](https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music) ([Source](https://github.com/mostafaalagamy/Metrolist)).  
 → Клиент для YouTube Music без ограничений. Требует VPN или обход блокировок (byeDPI).
-- [Audile](https://f-droid.org/packages/com.mrsep.musicrecognizer) ([Source](https://github.com/aleksey-saenko/MusicRecognizer)). 
+- 🎶  [Audile](https://f-droid.org/packages/com.mrsep.musicrecognizer) ([Source](https://github.com/aleksey-saenko/MusicRecognizer)). 
 → Распознавание музыки. Аналог Shazam с поддержкой офлайн-базы.
 
 ### Умные устройства
